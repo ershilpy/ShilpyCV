@@ -1,10 +1,11 @@
 .dp{
-    height: 750%;
+    height: 75%;
     width: 115%;
+    border-radius: 20%;
 }
 p{
     text-align: justify;
-    font: 16px times-new-roman;
+    font: 16px verdana;
 }
 .start-det{
     margin-top: -10%;
