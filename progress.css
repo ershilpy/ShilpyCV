@@ -99,8 +99,8 @@
         transform: rotate(0deg);
     }
     100%{
-        -webkit-transform: rotate(180deg);
-        transform: rotate(180deg);
+        -webkit-transform: rotate(150deg);
+        transform: rotate(150deg);
     }
 }
 @keyframes loading-2{
@@ -109,8 +109,8 @@
         transform: rotate(0deg);
     }
     100%{
-        -webkit-transform: rotate(144deg);
-        transform: rotate(144deg);
+        -webkit-transform: rotate(120deg);
+        transform: rotate(120deg);
     }
 }
 @keyframes loading-3{
@@ -129,8 +129,8 @@
         transform: rotate(0deg);
     }
     100%{
-        -webkit-transform: rotate(36deg);
-        transform: rotate(36deg);
+        -webkit-transform: rotate(140deg);
+        transform: rotate(140deg);
     }
 }
 @keyframes loading-5{
@@ -139,8 +139,8 @@
         transform: rotate(0deg);
     }
     100%{
-        -webkit-transform: rotate(126deg);
-        transform: rotate(126deg);
+        -webkit-transform: rotate(75deg);
+        transform: rotate(75deg);
     }
 }
 @media only screen and (max-width: 990px){
