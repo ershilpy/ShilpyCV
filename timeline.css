@@ -91,7 +91,7 @@
   .timeline-heading {
     width: 80%;
     padding: 5px;
-    background-color: black;
+    background-color: #02565c;
     color:#fff;
   }
   .timeline-clock {
@@ -101,7 +101,7 @@
   
   .timeline-title {
     margin-top: 0;
-    background-color: black;
+    background-color: #02565c;
     color:#fff;
     /* color: inherit; */
   }
