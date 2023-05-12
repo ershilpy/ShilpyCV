@@ -3,10 +3,10 @@
   }
   
   /* Set a background color */
-  /* body {
+  body {
     background-color: #474e5d;
     font-family: Helvetica, sans-serif;
-  } */
+  }
   
   /* The actual timeline (the vertical ruler) */
   .timeline {
@@ -28,12 +28,12 @@
   }
   
   /* Container around content */
-  /* .container {
+  .container {
     padding: 10px 40px;
     position: relative;
     background-color: inherit;
     width: 50%;
-  } */
+  }
   
   /* The circles on the timeline */
   .container::after {
@@ -108,19 +108,19 @@
     }
   
   /* Full-width containers */
-    /* .container {
+    .container {
       width: 100%;
       padding-left: 70px;
       padding-right: 25px;
-    } */
+    }
   
   /* Make sure that all arrows are pointing leftwards */
-    /* .container::before {
+    .container::before {
       left: 60px;
       border: medium solid white;
       border-width: 10px 10px 10px 0;
       border-color: transparent white transparent transparent;
-    } */
+    }
   
   /* Make sure all circles are at the same spot */
     .left::after, .right::after {
