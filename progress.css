@@ -74,21 +74,21 @@
     border-color: #d10b4f;
 }
 .progress.blue .progress-left .progress-bar{
-    animation: loading-1 1.5s linear forwards 1.8s;
+    animation: loading-2 1.5s linear forwards 1.8s;
 }
 
 .progress.green .progress-bar{
     border-color: green;
 }
 .progress.green .progress-left .progress-bar{
-    animation: loading-2 1.5s linear forwards 1.8s;
+    animation: loading-3 1.5s linear forwards 1.8s;
 }
 
 .progress.yellow .progress-bar{
     border-color: yellow;
 }
 .progress.yellow .progress-left .progress-bar{
-    animation: loading-3 1.5s linear forwards 1.8s;
+    animation: loading-4 1.5s linear forwards 1.8s;
 }
 
 .progress.black .progress-bar{
@@ -105,7 +105,7 @@
     }
     100%{
         -webkit-transform: rotate(180deg);
-        transform: rotate(170deg);
+        transform: rotate(180deg);
     }
 }
 @keyframes loading-2{
