@@ -94,7 +94,7 @@
 .progress.black .progress-bar{
     border-color: black;
 }
-.progress.yellow .progress-left .progress-bar{
+.progress.black .progress-left .progress-bar{
     animation: loading-5 1.5s linear forwards 1.8s;
 }
 
