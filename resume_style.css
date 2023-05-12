@@ -17,3 +17,9 @@ div.top-row{
     background-position: relative;
     color: white;
 }
+.skills-html .skills-css .skills-js .skills-php .skills-java{
+    border: 2px double;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
