@@ -91,6 +91,8 @@
   .timeline-heading {
     width: 80%;
     padding: 5px;
+    background-color: black;
+    color:#fff;
   }
   .timeline-clock {
     width: 20%;
@@ -101,7 +103,7 @@
     margin-top: 0;
     background-color: black;
     color:#fff;
-    color: inherit;
+    /* color: inherit; */
   }
   
   .timeline-body > p,
