@@ -19,7 +19,7 @@ div.top-row{
 }
 .skills-html, .skills-css, .skills-js, .skills-php, .skills-java{
     margin: auto;
-    border: 2px doubled black;
+    border: 3px double black;
     border-radius: 50%;
     height: 100px;
     width: 100px;
