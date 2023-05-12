@@ -30,4 +30,5 @@ div.top-row{
 
 #skills-bg{
     background-image: url("images/skills-bg.jpg");
+    background-attachment: fixed;
 }
