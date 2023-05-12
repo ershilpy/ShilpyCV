@@ -35,3 +35,8 @@ div.top-row{
 .white-head{
     color:white;
 }
+
+#skills{
+    background-image: url("images/qual.jpg");
+    /* background-attachment: fixed; */
+}
