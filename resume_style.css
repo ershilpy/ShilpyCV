@@ -36,8 +36,10 @@ div.top-row{
     color:white;
 }
 
-#qual{
+#qual-bg{
     background-image: url("images/qual.jpg");
     /* background-attachment: fixed; */
     background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
 }
