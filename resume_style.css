@@ -18,11 +18,11 @@ div.top-row{
     /* color: white; */
 }
 .skills-html, .skills-css, .skills-js, .skills-php, .skills-java{
+    margin: auto;
     border: 2px double black;
     border-radius: 50%;
     height: 100px;
-    width: 100%;
+    width: 100px;
     text-align: center;
     font: 12px;
-    margin: auto;
 }
