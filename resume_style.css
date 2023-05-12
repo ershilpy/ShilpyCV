@@ -36,7 +36,8 @@ div.top-row{
     color:white;
 }
 
-#skills{
+#qual{
     background-image: url("images/qual.jpg");
     /* background-attachment: fixed; */
+    background-repeat: no-repeat;
 }
