@@ -94,7 +94,7 @@
 }
 
 .progress.black .progress-bar{
-    border-color: black;
+    border-color: blue;
     /* margin-top:20px; */
 }
 .progress.black .progress-left .progress-bar{
