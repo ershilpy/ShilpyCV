@@ -8,6 +8,9 @@ p{
     font: 16px verdana;
 }
 div.top-row{
-    background-color: firebrick;
+    background-color: #02565c;
     color: white;
+}
+.row{
+    background-image: url('\images\intro.jpeg');
 }
