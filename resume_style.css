@@ -32,3 +32,6 @@ div.top-row{
     background-image: url("images/skills-bg.jpg");
     background-attachment: fixed;
 }
+.white-head{
+    color:white;
+}
