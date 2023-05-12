@@ -15,7 +15,7 @@ div.top-row{
     background-image: url('images/intro.jpg');
     background-attachment: fixed;
     background-position: relative;
-    color: white;
+    /* color: white; */
 }
 .skills-html, .skills-css, .skills-js, .skills-php, .skills-java{
     border: 2px double black;
