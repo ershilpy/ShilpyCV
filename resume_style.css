@@ -17,7 +17,7 @@ div.top-row{
     background-position: relative;
     /* color: white; */
 }
-.skills-html, .skills-css, .skills-js, .skills-php, .skills-java{
+.skills-html, .skills-css, .skills-js, .skills-php, .skills-java, h2{
     border: 2px double black;
     border-radius: 50%;
     height: 100px;
