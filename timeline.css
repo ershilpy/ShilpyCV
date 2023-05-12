@@ -95,6 +95,8 @@
   .timeline-clock {
     width: 20%;
     padding: 5px;
+    background-color: black;
+    color:#fff;
   }
   
   .timeline-title {
@@ -123,12 +125,12 @@
   
   .flex-around {
     -ms-flex-pack: distribute;
-        justify-content: space-around;
+        /* justify-content: space-around; */
   }
   
   .flex-between {
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
+    /* -webkit-box-pack: justify;
+        -ms-flex-pack: justify; */
             justify-content: space-between;
   }
   
