@@ -144,8 +144,8 @@
         transform: rotate(0deg);
     }
     100%{
-        -webkit-transform: rotate(50deg);
-        transform: rotate(50deg);
+        -webkit-transform: rotate(150deg);
+        transform: rotate(150deg);
     }
 }
 @media only screen and (max-width: 990px){
