@@ -11,6 +11,6 @@ div.top-row{
     background-color: #02565c;
     color: white;
 }
-.row{
-    background-image: url('images\intro.jpg');
+.intro{
+    background-image: url('\images\intro.jpg');
 }
