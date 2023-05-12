@@ -13,4 +13,6 @@ div.top-row{
 }
 .intro{
     background-image: url('images/intro.jpg');
+    background-attachment: fixed;
+    color: white;
 }
