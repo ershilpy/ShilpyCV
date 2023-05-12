@@ -3,10 +3,10 @@
   }
   
   /* Set a background color */
-  /* body {
+  #exp {
     background-color: #474e5d;
     font-family: Helvetica, sans-serif;
-  } */
+  }
   
   /* The actual timeline (the vertical ruler) */
   .timeline {
