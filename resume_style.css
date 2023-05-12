@@ -12,5 +12,5 @@ div.top-row{
     color: white;
 }
 .row{
-    background-image: url('\images\intro.jpg');
+    background-image: url('.\images\intro.jpg');
 }
