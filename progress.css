@@ -77,8 +77,19 @@
     animation: loading-2 1.5s linear forwards 1.8s;
 }
 
+.progress.green .progress-bar{
+    border-color: green;
+}
+.progress.green .progress-left .progress-bar{
+    animation: loading-2 1.5s linear forwards 1.8s;
+}
 
-
+.progress.yellow .progress-bar{
+    border-color: yellow;
+}
+.progress.yellow .progress-left .progress-bar{
+    animation: loading-2 1.5s linear forwards 1.8s;
+}
 
 
 
