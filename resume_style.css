@@ -49,6 +49,6 @@ div.top-row{
     width:80%;
 }
 .cap{
-    height: 50%;
-    width: 50%;
+    height: 50% !important;
+    width: 50% !important;
 }
