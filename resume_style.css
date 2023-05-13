@@ -44,7 +44,8 @@ div.top-row{
     width: 100%;
 }
 .card{
-    border: 1px solid #02565c;
+    border: 12px solid #02565c;
+    border-radius: 20px;
     box-shadow: 10px 10px #7faaad;
     height:400px;
     padding:10px;
@@ -62,5 +63,9 @@ div.top-row{
 #exp{
     background-image: url("images/teaching.png");
     background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#contact{
+    background-image: url("images/contact.jpg");
     background-repeat: no-repeat;
 }
