@@ -49,8 +49,7 @@ div.top-row{
     height:400px;
     padding:10px;
     background-color: rgba(133, 133, 185, 0.993);
-    /* height: 300px; */
-    /* width:80%; */
+    opacity: 0.5;
 }
 .card-set{
     padding: 20px;
