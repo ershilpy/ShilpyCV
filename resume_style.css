@@ -58,3 +58,7 @@ div.top-row{
     height: 150px !important;
     width: 150px !important;
 }
+#exp{
+    background-image: url("images/teaching.png");
+    background-attachment: fixed;
+}
