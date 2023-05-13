@@ -69,4 +69,5 @@ div.top-row{
     background-image: url("images/contact.jpg");
     background-repeat: no-repeat;
     height: 300px;
+    width: 100%;
 }
