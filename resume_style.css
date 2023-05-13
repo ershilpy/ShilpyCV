@@ -46,8 +46,11 @@ div.top-row{
 .card{
     border: 1px solid #02565c;
     box-shadow: 5px 10px #7faaad;
-    padding: 20px;
+   
     /* width:80%; */
+}
+.card-set{
+    padding: 20px;
 }
 .card-img-top{
     height: 150px !important;
