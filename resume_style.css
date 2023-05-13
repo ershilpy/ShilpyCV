@@ -46,7 +46,8 @@ div.top-row{
 .card{
     border: 1px solid #02565c;
     box-shadow: 5px 10px #7faaad;
-   
+    max-height:300px;
+    min-height: 300px;
     /* width:80%; */
 }
 .card-set{
