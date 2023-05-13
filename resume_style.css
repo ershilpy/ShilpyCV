@@ -44,6 +44,6 @@ div.top-row{
     width: 100%;
 }
 .card{
-    border: 1px solid #7faaad;
-    box-shadow: 5px 10px;
+    border: 1px solid #02565c;
+    box-shadow: 5px 10px #7faaad;
 }
