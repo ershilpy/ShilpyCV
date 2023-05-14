@@ -50,9 +50,9 @@ div.top-row{
     box-shadow: 10px 10px #7faaad;
     height:400px;
     padding:10px;
-    background-color: rgba(239, 239, 248, 0.993); */
-    opacity: 0.5 !important; */
-    /* color: white; */
+    background-color: rgba(239, 239, 248, 0.993);
+    opacity: 0.5 !important;
+    color: black;
 }
 .card-set{
     padding: 20px;
