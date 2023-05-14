@@ -63,6 +63,7 @@ div.top-row{
 #exp{
     background-image: url("images/EXP.jpg");
     background-attachment: fixed;
+    color: white;
     /* background-repeat: no-repeat; */
 }
 #contact{
