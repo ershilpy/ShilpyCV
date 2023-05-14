@@ -61,9 +61,9 @@ div.top-row{
     width: 150px !important;
 }
 #exp{
-    background-image: url("images/teaching.png");
+    background-image: url("images/teach.jpg");
     background-attachment: fixed;
-    /* background-repeat: no-repeat; */
+    background-repeat: no-repeat;
 }
 #contact{
     background-image: url("images/contact.jpg");
