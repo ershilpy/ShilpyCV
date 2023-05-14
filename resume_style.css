@@ -51,7 +51,7 @@ div.top-row{
     height:400px;
     padding:10px;
     background-color: rgba(182, 182, 204, 0.993); */
-    opacity: 0.4;
+    opacity: 0.4 !important;
     /* color: white; */
 }
 .card-set{
