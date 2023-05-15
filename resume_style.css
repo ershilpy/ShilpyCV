@@ -76,3 +76,7 @@ div.top-row{
     background-color: #02565c;
     color: white;
 }
+.navbar-inverse {
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
